@@ -1,0 +1,52 @@
+Type,Setting,Test,Prevalence,Specificity,Min,Max
+RiskGroup,PLHIV,Mtb/Rif,16472.86822,0.990719258,0.98,1
+RiskGroup,PLHIV,Mtb/Rif,13848.76805,0.992110454,0.98,1
+RiskGroup,PLHIV,Mtb/Rif,19195.04644,0.980842912,0.96,0.99
+RiskGroup,PLHIV,Mtb/Rif,15024.63054,0.98115942,0.97,0.99
+RiskGroup,PLHIV,Mtb/Rif,12000,1,0.97,1
+RiskGroup,PLHIV,Mtb/Rif,11650.48544,0.967032967,0.91,0.99
+RiskGroup,PLHIV,Mtb/Rif,13043.47826,1,0.94,1
+RiskGroup,PLHIV,Mtb/Rif,36842.10526,0.916666667,0.82,0.97
+RiskGroup,PLHIV,Mtb/Rif,11908.9317,0.998011928,0.99,1
+RiskGroup,PLHIV,Mtb/Rif,4395.604396,1,0.96,1
+RiskGroup,PLHIV,Mtb/Rif,3305.785124,0.981196581,0.97,0.99
+RiskGroup,PLHIV,Mtb/Rif,2430.555556,0.996441281,0.98,1
+RiskGroup,Other risk groups,Mtb/Rif,8928.571429,1,0.93,1
+RiskGroup,Other risk groups,Mtb/Rif,3982.300885,0.983870968,0.97,0.99
+RiskGroup,Other risk groups,Mtb/Rif,7003.610108,0.949534161,0.94,0.96
+RiskGroup,Other risk groups,Mtb/Rif,6787.330317,0.990291262,0.98,1
+RiskGroup,Other risk groups,Mtb/Rif,2824.346775,0.995803544,0.99,1
+RiskGroup,Admitted patients,Mtb/Rif,31259.72006,0.950226244,0.93,0.97
+RiskGroup,Admitted patients,Mtb/Rif,23015.87302,0.948453608,0.88,0.98
+RiskGroup_not_using,PLHIV,UltraWithTrace,11908.9317,0.982107356,0.98,1
+Presumptive,Presumptive TB,Mtb/Rif,23628.69198,1,0.98,1
+Presumptive,Presumptive TB,Mtb/Rif,72202.16606,0.987012987,0.93,1
+Presumptive,Presumptive TB,Mtb/Rif,32105.62891,0.982599795,0.97,0.99
+Presumptive,Presumptive TB,Mtb/Rif,30125.52301,0.982035928,0.95,1
+Presumptive,Presumptive TB,Mtb/Rif,23979.59184,0.973154362,0.93,0.99
+Presumptive,Presumptive TB,Mtb/Rif,12777.77778,0.942675159,0.89,0.97
+Presumptive,Presumptive TB,Mtb/Rif,46067.41573,1,0.97,1
+Presumptive,Presumptive TB,UltraWithTrace,23628.69198,0.955801105,0.91,0.98
+Presumptive,Presumptive TB,UltraWithTrace,72202.16606,0.987012987,0.93,1
+Presumptive,Presumptive TB,UltraWithTrace,32105.62891,0.955987718,0.94,0.97
+Presumptive,Presumptive TB,UltraWithTrace,30125.52301,0.892215569,0.84,0.93
+Presumptive,Presumptive TB,UltraWithTrace,26190.47619,0.693548387,0.6,0.77
+Presumptive,Presumptive TB,UltraWithTrace,23979.59184,0.966442953,0.92,0.99
+Presumptive,Presumptive TB,UltraWithTrace,12777.77778,0.936305732,0.89,0.97
+Presumptive,Presumptive TB,UltraWithTrace,46240.6015,0.979020979,0.94,1
+Presumptive,Presumptive TB,UltraWithTrace,23493.9759,0.706036745,0.66,0.74
+Community,Community,Mtb/Rif,278.6,0.998,,
+Community,Community,Mtb/Rif,1422.078874,0.993,,
+Community,Community,Mtb/Rif,3344.298246,0.99,,
+Community,Community,Mtb/Rif,2869.10479,0.985,,
+Community,Community,Mtb/Rif,5134.758364,0.982,,
+Community,Community,Ultra,434,0.999,,
+Community,Community,Ultra,3178.12269,0.987,,
+Community,Community,Ultra,6805.004577,0.971,,
+Community,Community,Ultra,2581.072138,0.99,,
+Community,Community,Ultra,1861.514596,0.99,,
+Community,Community,UltraWithTrace,434,0.994,,
+Community,Community,UltraWithTrace,3178.12269,0.978,,
+Community,Community,UltraWithTrace,6805.004577,0.951,,
+Community,Community,UltraWithTrace,2581.072138,0.984,,
+Community,Community,UltraWithTrace,1861.514596,0.981,,
